@@ -1,0 +1,7 @@
+h1 {background-color: rgb(204, 174, 174);
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1rem; 
+};
